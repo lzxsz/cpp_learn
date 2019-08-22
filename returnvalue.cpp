@@ -3,8 +3,10 @@
  *
  * g++ returnvalue.cpp -o returnvalue.out -std=c++11
  *
- * Require Linux G++ version: 
- * gcc version 5.2.1 20150902 (Red Hat 5.2.1-2)
+ * Require Linux G++ version:
+ *  gcc version 4.8.2 20140120 (Red Hat 4.8.2-15)
+ *  or 
+ *  gcc version 5.2.1 20150902 (Red Hat 5.2.1-2)
  *
  * Output:
  * 1   0.5  HelloWorld
